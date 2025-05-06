@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Marco Vinicius Cunha, tenho 22 anos e sou de Mogi das Cruzes - SP. Concluí o ensino médio no IFRS. Atualmente, estou cursando Sistemas de informação na UMC. Sou apaixonado por tecnologia e busco adquirir mais conhecimento cada dia. 
+Me chamo Marco Vinicius Cunha, tenho 22 anos e sou de Mogi das Cruzes - SP. Estou cursando Sistemas de informação na UMC. Sou apaixonado por tecnologia e busco adquirir mais conhecimento cada dia. 
 Ja estudei front, mas hoje estou mais focado no back. Principalmente Spring boot.
 
 <p align="left">
