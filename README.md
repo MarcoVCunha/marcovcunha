@@ -141,7 +141,6 @@ Ja estudei front, mas hoje estou mais focado no back. Principalmente Spring boot
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=MarcoVCunha&show_icons=true&theme=ocean_dark&include_all_commits=true&locale=pt-br" 
   />
-  <br/>
 <img 
     align="left" 
     alt="GitHub Stats" 
