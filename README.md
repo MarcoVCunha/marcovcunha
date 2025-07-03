@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 Me chamo Marco Vinicius Cunha, tenho 22 anos e sou de Mogi das Cruzes - SP. Estou cursando Sistemas de informação na UMC. Sou apaixonado por tecnologia e busco adquirir mais conhecimento cada dia. 
-Ja estudei front, mas hoje estou mais focado no back, principalmente Spring boot.
+Ja estudei back (java e Spring boot), mas hoje estou mais focado no front, principalmente React.js.
 
 <p align="left">
     <a href="https://github.com/MarcoVCunha?tab=repositories&sort=stargazers">
