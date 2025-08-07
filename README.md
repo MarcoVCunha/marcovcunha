@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Marco Vinicius Cunha, tenho 22 anos e sou de Mogi das Cruzes - SP. Estou cursando Sistemas de informação na UMC. Sou apaixonado por tecnologia e busco adquirir mais conhecimento cada dia. 
+Me chamo Marco Vinicius Cunha, tenho 22 anos e sou de Mogi das Cruzes - SP. Estou cursando Sistemas de informação na UMC. Sou apaixonado por tecnologia e busco adquirir mais conhecimento cada dia.
 Ja estudei back (java e Spring boot), mas hoje estou mais focado no front, principalmente React.
 
 <p align="left">
@@ -25,25 +25,35 @@ Ja estudei back (java e Spring boot), mas hoje estou mais focado no front, princ
 <p align="left">
         <img
             alt="EMAil" 
+            style="padding-right: 10px;" 
+            alt="EMAIL" 
             title="E-mail" 
             src="https://custom-icon-badges.demolab.com/badge/marcoviniciuscunha@gmail.com-E61B23.svg?logo=mail"
         />
-        <a href="https://www.linkedin.com/in/marco-cunha-0225762b8/">
+        <a  style="padding-right: 10px;" 
+            href="https://www.linkedin.com/in/marco-cunha-0225762b8/">
             <img
                 alt="LINKEDIN"
                 title="Linkedin"
                 src="https://custom-icon-badges.demolab.com/badge/-2e2e2e.svg?logo=li"
             />
         </a>
-        <a href="https://www.instagram.com/marcov_cunha/">
+        <a  style="padding-right: 10px;" 
+            href="https://www.instagram.com/marcov_cunha/">
             <img
                 alt="LINKEDIN"
                 title="Linkedin"
                 src="https://custom-icon-badges.demolab.com/badge/-2e2e2e.svg?logo=instagram"
             />
         </a>
+        <a style="padding-right: 10px;" href="https://marco-portfolio-seven.vercel.app" target="_blank">
+            <img 
+                alt="Portfólio"
+                title="Portfólio"
+                src="https://custom-icon-badges.demolab.com/badge/Portfólio-blue.svg?logo=web"
+            />
+        </a>
 </p>
-
 
 ---
 
@@ -134,7 +144,7 @@ Ja estudei back (java e Spring boot), mas hoje estou mais focado no front, princ
 
 ### 📊 Estatísticas
 
-  <img 
+<img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
