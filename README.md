@@ -23,13 +23,15 @@ Ja estudei back (java e Spring boot), mas hoje estou mais focado no front, princ
 </p>
 
 <p align="left">
-        <img
-            alt="EMAil" 
-            style="padding-right: 10px;" 
-            alt="EMAIL" 
-            title="E-mail" 
-            src="https://custom-icon-badges.demolab.com/badge/marcoviniciuscunha@gmail.com-E61B23.svg?logo=mail"
+        <a  style="padding-right: 10px;" 
+            href="mailto:marcoviniciuscunha@gmail.com" 
+            target="_blank">
+            <img
+                alt="EMail" 
+                title="E-mail" 
+                src="https://custom-icon-badges.demolab.com/badge/marcoviniciuscunha@gmail.com-E61B23.svg?logo=mail"
         />
+        </a>
         <a  style="padding-right: 10px;" 
             href="https://www.linkedin.com/in/marco-cunha-0225762b8/">
             <img
