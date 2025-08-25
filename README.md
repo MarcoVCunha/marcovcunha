@@ -33,7 +33,8 @@ Ja estudei back (java e Spring boot), mas hoje estou mais focado no front, princ
         />
         </a>
         <a  style="padding-right: 10px;" 
-            href="https://www.linkedin.com/in/marco-cunha-0225762b8/">
+            href="https://www.linkedin.com/in/marco-cunha-0225762b8/"
+            target="_blank">
             <img
                 alt="LINKEDIN"
                 title="Linkedin"
@@ -41,14 +42,17 @@ Ja estudei back (java e Spring boot), mas hoje estou mais focado no front, princ
             />
         </a>
         <a  style="padding-right: 10px;" 
-            href="https://www.instagram.com/marcov_cunha/">
+            href="https://www.instagram.com/marcov_cunha/"
+            target="_blank">
             <img
                 alt="LINKEDIN"
                 title="Linkedin"
                 src="https://custom-icon-badges.demolab.com/badge/-2e2e2e.svg?logo=instagram"
             />
         </a>
-        <a style="padding-right: 10px;" href="https://marco-portfolio-seven.vercel.app" target="_blank">
+        <a  style="padding-right: 10px;"    
+            href="https://marco-portfolio-seven.vercel.app" 
+            target="_blank">
             <img 
                 alt="Portfólio"
                 title="Portfólio"
